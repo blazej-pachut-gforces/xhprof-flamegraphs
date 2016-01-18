@@ -1,0 +1,11 @@
+{
+    "name": "gforces/xhprof-flamegraphs",
+    "description": "Fork of msonnabaum/xhprof-flamegraphs",
+    "authors": [
+        {
+            "name": "Blazej Pachut",
+            "email": "blazej.pachut@gforces.pl"
+        }
+    ],
+    "require": {}
+}
